@@ -1,10 +1,9 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: Creating Corletti's Cup
 date: 2018-08-16T12:01+02:00
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  Brewing coffee probably seems like a complicated and time-consuming ordeal.
+  However, when it comes to the Corletti's way it is worth the effort every time.
 image: /images/uploads/news_item-02.jpg
 ---
 

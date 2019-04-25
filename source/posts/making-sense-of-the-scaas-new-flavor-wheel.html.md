@@ -1,29 +1,53 @@
 ---
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Behind the Family
 date: 2018-08-14T12:01+02:00
 description: >-
-  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
-  tasters, has been revised for the first time this year.
+  There is something different about the love in an Italian family. We would
+  like to share our love with the rest of the world.
 image: /images/uploads/news_item-01.jpg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+There is something to be said about the Corlettis. We have a love inside of us like
+no other. We take the term family to be a ver serious obligation. The obligation
+of having one another's back through whatever comes our way. The people you see
+here in this picture have a fire within their hearts that burn brighter than
+ever when all 5 members are together. We are a force to be reckon with and
+nothing can come between us. We are each other's safe space, we are each other's
+home.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## The Family Members
 
-## What the updates mean to you
+The Corletti name belongs to all 5 of us and while we have that stamp on us, we
+all have different characteristics that make us one of a kind.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+- Dan
+- Beth
+- Anthony
+- Brian
+- Megan
+- Sadie (the puppy)
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+Dan (the man): Dan will be taking part in Corletti's Cup by offering his bouncer
+like qualities and keeping the space safe. He is a friendly face and will more
+than likely sit down with you to have a chat about your days. While Dan is not
+very intimidating, he does take his job very seriously. He will also help guide
+us when it comes to financial situations because he knows a thing or two about
+money.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Beth (the boss): Beth, well...all we have to say about her is she will be the smiling
+face when you walk through the door. Just kidding(love you Mom)!! Beth will not
+only be that smiling face, but she will play a huge part in the behind the scenes
+action when it comes to baked goods. After all, we get the recipes from her.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Anthony (the oldest): Tech man! Anthony is dedicated to taking our shop to the
+next level by implementing technical and high level applications. These will range
+from website design to square app readiness. This could get our business to a
+ready mobile app to make ordering quicker and more accessible.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Brian (the rose between two thorns) and Megan (the youngest): Now, say hello
+to the co-owners of Corletti's Cup! We got the passionate to create this little
+coffee shop whenever we both decided to volunteer at our college campus coffee
+shop.
+
+
+If you ever see us in the space, be sure to say hi!
