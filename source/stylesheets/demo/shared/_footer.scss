@@ -50,36 +50,7 @@ footer {
   }
 
 
-  label {
-    display: block;
-    margin-bottom: 15px;
-    font-size: 18px;
-    font-weight: 700;
-    color: rgba(0, 150, 0, 1);
-
-  }
-  button, input {
-    display: inline-block;
-    height: 60px;
-    padding: 15px;
-    border: none;
-    font-size: 18px;
-    line-height: 1.5
-  }
-  input {
-    width: 80%;
-    background-color: #fff;
-    background-clip: padding-box;
-    border-radius: 4px 0 0 4px;
-  }
-
-  button {
-    width: 20%;
-    background: $primary-color;
-    color: #fff;
-    border-radius: 0 4px 4px 0;
-    font-weight: 700;
-  }
+  
 }
 
 
