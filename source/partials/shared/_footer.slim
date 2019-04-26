@@ -6,21 +6,21 @@ footer
         - data.settings.navigation.nav_items.each do | nav_item |
           li
             = nav_link nav_item.label, nav_item.path
-  
+
   .footer-content
     .container-fluid
       .row
         .newsletter
-          form
-            label for="email" Sign up for our newsletter
-            input type="email" name="email" placeholder="Your email address"
-            button type="submit" Submit
+            label for="email" Add us on Snapchat for updates and check out our social media pages!
+
 
         .social
           .icons
-            = link_to '#'
+            = link_to ''
+              = image_tag "social/snapchat.jpg"
+            = link_to 'http://www.facebook.com/corlettiscup/'
               = image_tag "social/facebook.svg"
-            = link_to '#'
+            = link_to 'https://www.instagram.com/corlettiscup'
+              = image_tag "social/instagram.svg"
+            = link_to 'http://twitter.com/corlettiscup'
               = image_tag "social/twitter.svg"
-            = link_to 'https://github.com/tomrutgers/middleman-starter-netlify-cms'
-              = image_tag "social/github.svg"

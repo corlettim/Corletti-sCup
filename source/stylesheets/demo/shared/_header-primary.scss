@@ -6,8 +6,8 @@
   z-index: 999;
 
   .logo {
-    width: 173px;
-    height: 80px;
+    width: 200px;
+    height: 100px;
     a {
       display: block;
       padding: 26px 30px;
@@ -31,7 +31,7 @@
       font-weight: 700;
       color: $text-color;
       &.active, &:hover, &:focus{
-        color: $primary-color;
+        color: rgba(0, 25, 0, 1);
       }
     }
     @media screen and (max-width: $screen-xs-max){

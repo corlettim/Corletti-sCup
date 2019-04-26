@@ -1,29 +1,33 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'Just in: fresh batch of homemade biscotti'
 date: 2018-08-18T09:01+02:00
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  We’re proud to announce that our baked goods are finally in! While there are
+  many more additions to come, our biscotti are going to take the fame. Stop in
+  and grab a biscotti to pair with your delicious and warm cup of coffee!
 image: /images/uploads/news_item-03.jpg
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+A cookie that is unlike any other. It is far from your normal chocolate chip
+cookies; it is a chocolate chip cookie with a twist. Chocolate chip is not the only
+possible flavor for these delicious cookies. We can make any flavor from blueberry
+for our fruit lovers to red velvet for our dessert lovers. They are a multipurpose
+cookie that can be paired with a cup of coffee and make every day better!
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## When they started
 
-## A little history
+A mother's recipe is unforgettable, especially when it comes to biscotti. Within
+the Corletti household, every other week was biscotti time. 3 or 4 batches were
+made to fit everyone's preferences, from chocolate chip to cranberry walnut to
+almond to lemon; all fields were covered. Our mom would get out the big glass mixing
+bowl with our hand mixer and go to town, flour everywhere. As the dough was formed
+onto the cookie sheet, the rest of the house had eyes wide waiting until the very
+moment that we could grab the cookies and eat them once and for all. The baking
+process is a lengthy one at that, at least when you are waiting until you can eat
+them. Baked in the oven twice, to make sure that all the love is in every single
+last cookie. Once cooled, into our mouths they went with little to no time to think.
+The cookies were finished in the blink of an eye, only for us to turn around begging
+for me. These cookies hold a special place in all of our hearts and in our bellies.
+Which is exactly why we want to share them with you.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
+## Recipe

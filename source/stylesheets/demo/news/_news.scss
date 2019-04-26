@@ -54,11 +54,11 @@
     font-size: 32px;
     margin-top: 0;
   }
-  
+
   p {
     margin-top: 15px;
   }
-  
+
   a {
     color: $text-color;
     &:hover, &:focus {
@@ -71,7 +71,7 @@
     font-size: 18px;
     font-weight: 700;
     text-decoration: underline;
-    color: $primary-color;
+    color: rgba(0, 68, 0, 1);
   }
 
   @media screen and (max-width: $screen-md-max) {
