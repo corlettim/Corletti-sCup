@@ -27,7 +27,7 @@ footer {
 
   .social {
     @extend %column;
-    @extend %col-md-6;
+    @extend %col-md-8;
     @include clearfix;
     margin-top: 40px;
     .icons {
@@ -41,7 +41,7 @@ footer {
       height: 100px;
       padding: 15px;
       background-color: #fff;
-      border-radius: 50%
+      border-radius: 75%
 
     }
     img {
