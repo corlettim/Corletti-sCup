@@ -27,7 +27,7 @@ process is a lengthy one at that, at least when you are waiting until you can ea
 them. Baked in the oven twice, to make sure that all the love is in every single
 last cookie. Once cooled, into our mouths they went with little to no time to think.
 The cookies were finished in the blink of an eye, only for us to turn around begging
-for me. These cookies hold a special place in all of our hearts and in our bellies.
+for more. These cookies hold a special place in all of our hearts and in our bellies.
 Which is exactly why we want to share them with you.
 
 ## Recipe
