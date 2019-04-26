@@ -10,7 +10,7 @@
     height: 100px;
     a {
       display: block;
-      padding: 40px 44px;
+      padding: 26px 30px;
     }
   }
 
@@ -31,7 +31,7 @@
       font-weight: 700;
       color: $text-color;
       &.active, &:hover, &:focus{
-        color: $primary-color;
+        color: rgba(0, 68, 0, 1);
       }
     }
     @media screen and (max-width: $screen-xs-max){
