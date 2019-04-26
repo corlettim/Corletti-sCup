@@ -54,15 +54,15 @@
     font-size: 32px;
     margin-top: 0;
   }
-  
+
   p {
     margin-top: 15px;
   }
-  
+
   a {
     color: $text-color;
     &:hover, &:focus {
-      color: $text-color;
+      color: rgba(0, 68, 0, 1);
       text-decoration: none;
     }
   }
