@@ -1,6 +1,6 @@
 ---
 title: 'Just in: fresh batch of homemade biscotti'
-date: 2018-08-18T09:01+02:00
+date: 2018-08-14T09:01+02:00
 description: >-
   We’re proud to announce that our baked goods are finally in! While there are
   many more additions to come, our biscotti are going to take the fame. Stop in
