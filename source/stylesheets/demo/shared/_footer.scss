@@ -10,8 +10,6 @@ footer {
     .navigation {
       background-color: transparent;
       a {
-        font-size: 18px;
-        font-weight: 700;
         color: rgba(240, 230, 140, 1);
         &.active, &:hover, &:focus{
           color: rgba(0, 68, 0, 1);
