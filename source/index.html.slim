@@ -33,3 +33,11 @@ section.homepage-news.news
       //get the first two most recent posts
       - blog.articles.first(2).each do | article |
         = partial 'partials/news/news_item', locals: {article: article}
+
+section.homepage-menu.menu
+  .container
+    h2
+      | menu
+    .row
+      //menu is structed: ['filename', 'data']
+      
