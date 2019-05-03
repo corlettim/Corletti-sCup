@@ -1,53 +1,33 @@
 ---
-title: Behind the Family
-date: 2018-08-14T12:01+02:00
+title: 'Just in: fresh batch of homemade biscotti'
+date: 2018-08-14T09:01+02:00
 description: >-
-  There is something different about the love in an Italian family. We would
-  like to share our love with the rest of the world.
-image: /images/uploads/news_item-01.jpg
+  We’re proud to announce that our baked goods are finally in! While there are
+  many more additions to come, our biscotti are going to take the fame. Stop in
+  and grab a biscotti to pair with your delicious and warm cup of coffee!
+image: /images/uploads/news_item-03.jpg
 ---
 
-There is something to be said about the Corlettis. We have a love inside of us like
-no other. We take the term family to be a ver serious obligation. The obligation
-of having one another's back through whatever comes our way. The people you see
-here in this picture have a fire within their hearts that burn brighter than
-ever when all 5 members are together. We are a force to be reckon with and
-nothing can come between us. We are each other's safe space, we are each other's
-home.
+A cookie that is unlike any other. It is far from your normal chocolate chip
+cookies; it is a chocolate chip cookie with a twist. Chocolate chip is not the only
+possible flavor for these delicious cookies. We can make any flavor from blueberry
+for our fruit lovers to red velvet for our dessert lovers. They are a multipurpose
+cookie that can be paired with a cup of coffee and make every day better!
 
-## The Family Members
+## When they started
 
-The Corletti name belongs to all 5 of us and while we have that stamp on us, we
-all have different characteristics that make us one of a kind.
+A mother's recipe is unforgettable, especially when it comes to biscotti. Within
+the Corletti household, every other week was biscotti time. 3 or 4 batches were
+made to fit everyone's preferences, from chocolate chip to cranberry walnut to
+almond to lemon; all fields were covered. Our mom would get out the big glass mixing
+bowl with our hand mixer and go to town, flour everywhere. As the dough was formed
+onto the cookie sheet, the rest of the house had eyes wide waiting until the very
+moment that we could grab the cookies and eat them once and for all. The baking
+process is a lengthy one at that, at least when you are waiting until you can eat
+them. Baked in the oven twice, to make sure that all the love is in every single
+last cookie. Once cooled, into our mouths they went with little to no time to think.
+The cookies were finished in the blink of an eye, only for us to turn around begging
+for more. These cookies hold a special place in all of our hearts and in our bellies.
+Which is exactly why we want to share them with you.
 
-- Dan
-- Beth
-- Anthony
-- Brian
-- Megan
-- Sadie (the puppy)
-
-Dan (the man): Dan will be taking part in Corletti's Cup by offering his bouncer
-like qualities and keeping the space safe. He is a friendly face and will more
-than likely sit down with you to have a chat about your days. While Dan is not
-very intimidating, he does take his job very seriously. He will also help guide
-us when it comes to financial situations because he knows a thing or two about
-money.
-
-Beth (the boss): Beth, well...all we have to say about her is she will be the smiling
-face when you walk through the door. Just kidding(love you Mom)!! Beth will not
-only be that smiling face, but she will play a huge part in the behind the scenes
-action when it comes to baked goods. After all, we get the recipes from her.
-
-Anthony (the oldest): Tech man! Anthony is dedicated to taking our shop to the
-next level by implementing technical and high level applications. These will range
-from website design to square app readiness. This could get our business to a
-ready mobile app to make ordering quicker and more accessible.
-
-Brian (the rose between two thorns) and Megan (the youngest): Now, say hello
-to the co-owners of Corletti's Cup! We got the passionate to create this little
-coffee shop whenever we both decided to volunteer at our college campus coffee
-shop.
-
-
-If you ever see us in the space, be sure to say hi!
+## Recipe

@@ -13,7 +13,7 @@ title: Corletti's Cup
         span = product.weight.to_s + weight
 
       .price
-        - currency = data.settings.units.currency || 'lb'
+        - currency = data.settings.units.currency || '$'
         span = currency + product.price.to_s
 
     .body
